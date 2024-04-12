@@ -164,8 +164,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/habib-sherfy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="habib-sherfy" /></a><a href="https://ko-fi.com/habib-sherfy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="habib-sherfy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habib-sherfy&show_icons=true&locale=en&layout=compact" alt="habib-sherfy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habib-sherfy&show_icons=true&locale=en" alt="habib-sherfy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habib-sherfy&" alt="habib-sherfy" /></p>
