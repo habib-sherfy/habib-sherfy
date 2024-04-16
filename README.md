@@ -1,6 +1,6 @@
-![Features](https://github.com/textualize/rich/raw/master/imgs/features.png)
-![banner](https://www.pexels.com/photo/close-up-view-of-system-hacking-5380792/)
-https://www.canva.com/design/DAGAUQmg-n8/xt28Pk_k3M2JWuRxdTYKFg/edit
+
+![bn 01](https://github.com/habib-sherfy/habib-sherfy/assets/161951351/19e60cde-1682-4472-99b1-c79dfb5d92db)
+
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
   <!-- Typing SVG by habib-sherfy - https://github.com/habib-sherfy/readme-typing-svg -->
