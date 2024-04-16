@@ -1,4 +1,5 @@
-![MasterHead]([[https://www.google.com/imgres?q=coding%20images&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Ffeatured%2Fcoding-background-9izlympnd0ovmpli.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fcoding-background&docid=g7FswiGJ0w0c9M&tbnid=9ttFutEew8aguM&vet=12ahUKEwjFvNDI0bmFAxU-i_0HHRKLDE0QM3oECGEQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjFvNDI0bmFAxU-i_0HHRKLDE0QM3oECGEQAA]](https://twitter.com/EObadoni/status/1778505369632821669/photo/1)(https://images.app.goo.gl/jvg5TnpFmkersEnJA))
+![Features](https://github.com/textualize/rich/raw/master/imgs/features.png)
+
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
   <!-- Typing SVG by habib-sherfy - https://github.com/habib-sherfy/readme-typing-svg -->
