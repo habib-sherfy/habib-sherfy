@@ -1,5 +1,6 @@
 ![Features](https://github.com/textualize/rich/raw/master/imgs/features.png)
-
+![banner](https://www.canva.com/design/DAGAUQmg-n8/xt28Pk_k3M2JWuRxdTYKFg/edit)
+https://www.canva.com/design/DAGAUQmg-n8/xt28Pk_k3M2JWuRxdTYKFg/edit
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
   <!-- Typing SVG by habib-sherfy - https://github.com/habib-sherfy/readme-typing-svg -->
