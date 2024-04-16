@@ -1,5 +1,5 @@
 ![Features](https://github.com/textualize/rich/raw/master/imgs/features.png)
-![banner](https://www.canva.com/design/DAGAUQmg-n8/xt28Pk_k3M2JWuRxdTYKFg/edit?utm_content=DAGAUQmg-n8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![banner](https://www.pexels.com/photo/close-up-view-of-system-hacking-5380792/)
 https://www.canva.com/design/DAGAUQmg-n8/xt28Pk_k3M2JWuRxdTYKFg/edit
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
