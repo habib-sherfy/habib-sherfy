@@ -1,4 +1,4 @@
-![bn 02](https://github.com/habib-sherfy/habib-sherfy/assets/161951351/4eb9b578-0f59-4471-ae19-0e5f343b6962)
+<img width="848" alt="code" src="https://github.com/habib-sherfy/habib-sherfy/assets/161951351/17742c7f-6282-4ea0-b9c2-e7f53dea2a8f">
 
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
