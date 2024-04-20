@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
   <!-- Typing SVG by habib-sherfy - https://github.com/habib-sherfy/readme-typing-svg -->
-  <a href="https://github.com/habib-sherfy/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;Front-end%20web%20developer;
-    Back-end%20web%20developer;
-    Experienced%20UI%2FUX%20Designer;
-    Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=17a2b8&vCenter=true&pause=1000&size=22" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=ECF72C&background=060B0B00&vCenter=true&random=false&width=475&height=40&lines=Software+Developer,;Front-End+Developer,;Back-End+Developer,;Graphic+Designer,;And also Youtuber." alt="Typing SVG" /></a>
 </p>
 
 
