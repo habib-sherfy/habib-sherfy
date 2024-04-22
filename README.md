@@ -1,4 +1,4 @@
-<img width="848" alt="code" src="https://github.com/habib-sherfy/habib-sherfy/assets/161951351/17742c7f-6282-4ea0-b9c2-e7f53dea2a8f">
+
 
 <h1 align="center">Hi 👋, I'm Shafi Noor</h1>
 <p align="center">
@@ -6,10 +6,15 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=ECF72C&background=060B0B00&vCenter=true&random=false&width=475&height=40&lines=Software+Developer,;Front-End+Developer,;Back-End+Developer,;Graphic+Designer,;And also Youtuber." alt="Typing SVG" /></a>
 </p>
 
+My name is Shafi Noor , and I'm a software developer from Kenya. I have a deep passion for technology, and I love solving problems creatively. With my constantly growing skill set, I'm able to work on softwares and web applications.
 
+What I enjoy most about being a software developer is the opportunity to constantly learn and adapt to new technologies. This keeps me to be under consistent growth and helps me stay up-to-date with the latest trends and best practices in the industry.
+
+Overall, I'm excited about the future of technology and the role I can play in shaping it as a software developer.
+
+<img width="848" alt="code" src="https://github.com/habib-sherfy/habib-sherfy/assets/161951351/17742c7f-6282-4ea0-b9c2-e7f53dea2a8f">
 <!-- social badges icons -->
-
- <p align="left">
+ <p align="center">
       <a href="https://www.youtube.com/c/habib-sherfy?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/habib-sherfy">
