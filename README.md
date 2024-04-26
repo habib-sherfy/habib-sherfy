@@ -46,6 +46,8 @@ Overall, I'm excited about the future of technology and the role I can play in s
 - 📫 How to reach me **shafynoor82@gmail.com**
 
 - 📄 Know about my experiences [sherfyresume](sherfyresume)
+
+- You wanna check my YouTube Channel "[habib sherfy](youtube)"
 <br/>
 
 <div>
