@@ -6,6 +6,13 @@
 
 ![Static Badge](https://img.shields.io/badge/Email-shafynoor%40gmail.com-brightgreen)
 
+![Static Badge](https://img.shields.io/badge/Age-23yrs-orange)
+
+![Static Badge](https://img.shields.io/badge/Country-Kenya-purple)
+
+![Static Badge](https://img.shields.io/badge/Phone%20Number-+254745599380-yellow)
+
+![Static Badge](https://img.shields.io/badge/Full%20Name-Shafi%20Noor-cyan)
 
 <p align="center">
   <!-- Typing SVG by habib-sherfy - https://github.com/habib-sherfy/readme-typing-svg -->
