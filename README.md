@@ -169,5 +169,4 @@ Overall, I'm excited about the future of technology and the role I can play in s
 
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=habib-sherfy&show_icons=true&locale=en" alt="habib-sherfy" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=habib-sherfy&" alt="habib-sherfy" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=habib-sherfy&theme=gruvbox)](https://git.io/streak-stats)
